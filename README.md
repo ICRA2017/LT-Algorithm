@@ -33,9 +33,20 @@ Victor Hernandez Bennetts
 victor.hernandez@oru.se
 http://mrolab.eu/vrbs
 
+## Dependencies
+* [Circular Statistics Toolbox (Directional Statistics)](https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox--directional-statistics-)
 
+## Tests
+* Matlab 8.5.0.197613 (R2015a)
+* 64-bit
+* Ubuntu 14.04.5
 
-
-
-
-
+```
+example_01_pdf_estimation
+```
+![pdf_estimation](https://raw.githubusercontent.com/ICRA2017/LT-Algorithm/reproducible/example_01_pdf_estimation.png)
+```
+example_02_airflow_modeling
+```
+![airflow_map](https://raw.githubusercontent.com/ICRA2017/LT-Algorithm/reproducible/example_02_airflow_map.png)
+![turbulence_map](https://raw.githubusercontent.com/ICRA2017/LT-Algorithm/reproducible/example_02_turbulence_map.png)
